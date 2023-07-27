@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bijoy Mahata</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bijoy7492&label=Profile%20views&color=0e75b6&style=flat" alt="bijoy7492" /> </p>
+<p align="left"><img src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" alt="coding" width="400" align="right"></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
